@@ -1,10 +1,10 @@
 # nahuelesliceu
 **Bones tardes**
-*Fa fred*
-# ha cambiat
-## ha cambiat
-### ha cambiat
-#### ha cambiat
-##### ha cambiat
-###### ha cambiat
+*Fa calor*
+# ha estudiat
+## ha estudiat
+### ha estudiat
+#### ha estudiat
+##### ha estudiat
+###### ha estudiat
 # [Canal de Youtube] (https://www.youtube.com/channel/UCFV-yhBXZePHGq2bYoKK3sA)
