@@ -1,4 +1,14 @@
 # Gestió de Processos
+# Introducció als Sistemes Operatius
+
+Benvingut a la introducció als Sistemes Operatius. Aquí pots trobar informació general i enllaços als temes específics.
+
+- [Components del procés](components-del-proces.md)
+- [Sistema de Fitxers](sistema_fitxers.md)
+
+Torna a [Sistemes Operatius](Sistemes-operatius.md).
+
+Torna a [Apunts Generals](../README.md).
 
 ## Introducció
 
