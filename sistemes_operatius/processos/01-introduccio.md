@@ -6,7 +6,7 @@ Benvingut a la introducció als Sistemes Operatius. Aquí pots trobar informaci�
 - [Components del procés](02-components-del-proces.md)
 - [Estats dels processos](03-estats-processos.md)
 
-Torna a [Sistemes Operatius](Sistemes-operatius.md).
+Torna a [sistemes_operatius](sistemes_operatius/README.md).
 
 Torna a [Apunts Generals](../README.md).
 

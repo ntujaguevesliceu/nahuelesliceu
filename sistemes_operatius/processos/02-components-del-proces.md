@@ -2,7 +2,7 @@
 - [Introducció](01-introduccio.md)
 - [Estats dels processos](03-estats-processos.md)
 
-Torna a [Sistemes Operatius](Sistemes-operatius.md).
+Torna a [sistemes_operatius](sistemes_operatius/README.md).
 
 Torna a [Apunts Generals](../README.md).
 
