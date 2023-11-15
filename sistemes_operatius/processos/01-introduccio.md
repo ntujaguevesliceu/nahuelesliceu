@@ -3,8 +3,8 @@
 
 Benvingut a la introducció als Sistemes Operatius. Aquí pots trobar informació general i enllaços als temes específics.
 
-- [Components del procés](components-del-proces.md)
-- [Sistema de Fitxers](sistema_fitxers.md)
+- [Components del procés](processos/02-components-del-proces.md)
+- [Estats dels processos](processos/03-estats-processos.md)
 
 Torna a [Sistemes Operatius](Sistemes-operatius.md).
 
