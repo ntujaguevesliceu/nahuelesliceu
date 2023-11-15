@@ -1,4 +1,10 @@
 # Components del Procés en Gestió de Processos
+- [Introducció](01-introduccio.md)
+- [Estats dels processos](03-estats-processos.md)
+
+Torna a [Sistemes Operatius](Sistemes-operatius.md).
+
+Torna a [Apunts Generals](../README.md).
 
 ## 1. Entrades (Inputs)
 

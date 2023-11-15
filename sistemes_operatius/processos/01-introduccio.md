@@ -3,8 +3,8 @@
 
 Benvingut a la introducció als Sistemes Operatius. Aquí pots trobar informació general i enllaços als temes específics.
 
-- [Components del procés](processos/02-components-del-proces.md)
-- [Estats dels processos](processos/03-estats-processos.md)
+- [Components del procés](02-components-del-proces.md)
+- [Estats dels processos](03-estats-processos.md)
 
 Torna a [Sistemes Operatius](Sistemes-operatius.md).
 

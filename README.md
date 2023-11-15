@@ -16,4 +16,4 @@
 
 Benvingut als meus apunts! A continuació, pots trobar enllaços als diferents temes.
 
-- [Sistemes Operatius](sistemes_operatius/README.md)
+[sistemes_operatius](sistemes_operatius/README.md)
